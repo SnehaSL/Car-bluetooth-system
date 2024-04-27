@@ -3,7 +3,7 @@
 Reverse engineer an application which is used in a car to connect your mobile phone's / Bluetooth enabled device to play audio files / dial or receive calls etc. At a max the application can store information of 5 devices. If you want to include a new device you need to delete one of the devices and insert the new one. If a condition arises, say in the same instance all the 5 phones are trying to connect, which phone will be connected. Implement the above scenario using various test cases.  
 
 File Structure
-  1.  Contains the main source code for the Bluetooth system application.
+  1.  Contains the main source code for the Bluetooth system application and stack and queue using LinkedList code.
   2.  The documentation you are currently reading.
   3.  Project report
 
